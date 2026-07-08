@@ -21,7 +21,7 @@ Goosepad is a compact DIY hackpad designed for shortcuts, macros, and custom con
 
 ## Schematic
 
-![Goosepad schematic](images/schematic.png)
+![Goosepad schematic](screenshot_pcb.png)
 
 *Schematic showing the XIAO RP2040, buttons, OLED, and connections.*
 
