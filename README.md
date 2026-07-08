@@ -18,10 +18,16 @@ Goosepad is a compact DIY hackpad designed for shortcuts, macros, and custom con
 
 
 ## CAD
+Used fusion 360 to design the case.
+The case is divided into three parts:
+- Bottom.stl
+- Middle.stl
+- Top.stl
+![Goosepad schematic](/screenshot_pcb.png)
 
 ## Schematic
 
-![Goosepad schematic](screenshot_pcb.png)
+
 
 *Schematic showing the XIAO RP2040, buttons, OLED, and connections.*
 
