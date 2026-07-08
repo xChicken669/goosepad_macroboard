@@ -32,9 +32,9 @@ This is my pcb design that i created in KiCad,it was really fun and chill tracin
 ![KiCad screenshot](goosepad/screenshot_pcb.png)
 
 ## Firmware
-This hackpad uses QMK firmware for everything.
--6 programmable switches that can control anything you want :)
--OLED display that can display anything
+This hackpad uses QMK firmware for everything.<br>
+-6 programmable switches that can control anything you want :)<br>
+-OLED display that can display anything<br>
 ## BOM (Bill of Materials)
 -6x cherry MX switches<br>
 -1x 0.91" 128x32 OLED Display<br>
